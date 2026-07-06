@@ -36,5 +36,8 @@ Decrease payments abandoning by customers due to stock unavailability. Improve t
 
 * Easy order management for the admin  
 
-For more information, visit [https://meetanshi.com/magento-2-auto-cancel-order.html](https://meetanshi.com/magento-2-auto-cancel-order.html)
+For more information, visit ***[https://meetanshi.com/magento-2-auto-cancel-order.html](https://meetanshi.com/magento-2-auto-cancel-order.html)***
+
+Need help with installation and configuration? Refer to the User Guide:
+***[https://meetanshi.com/docs/magento/auto-cancel-order/](https://meetanshi.com/docs/magento/auto-cancel-order/)***
 
